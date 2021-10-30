@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1" alt="jatinvashisht1" /></a> </p>
 
-- 🔭 I’m currently working on Android Music Player [VM Music Player](https://github.com/JatinVashisht1/VM-Music-Player-App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JatinVashisht1/](https://github.com/JatinVashisht1/)
 
