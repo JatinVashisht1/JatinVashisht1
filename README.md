@@ -32,4 +32,5 @@
 <br>
 <h2 align="left"> Connect with Me <img width=80  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'> </h2>
 <p align="left">
+ <a href="https://www.linkedin.com/in/jatin-vashisht-3217b91b6/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="Jatin Vashisht" width="4%" height="4%" /></a>
 </p>
