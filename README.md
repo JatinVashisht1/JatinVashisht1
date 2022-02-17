@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<a href="https://github.com/Joaquin144/Joaquin144"><img alt=" Jatin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JatinVashisht1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JatinVashisht1/JatinVashisht1"><img alt=" Jatin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JatinVashisht1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
 <br>
 
