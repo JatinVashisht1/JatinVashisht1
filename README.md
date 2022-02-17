@@ -14,7 +14,6 @@
 <br>
 <br>
 
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinVashisht1)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left"> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="android" width="40" height="40"/> </a> 
