@@ -13,8 +13,6 @@
 <br>
 <br>
 <br>
-
-
 <h2 align="left"> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146765351-6cf1ff3f-423d-4370-bbf5-e73fb949913d.png" alt="java" width="40" height="40"/> </a> 
