@@ -1,36 +1,37 @@
+<h1 align="center">Hi 👋, I'm Jatin</h1>
+<h3 align="center">A passionate programmer from India.</h3>
 
-<h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Jatin </h1>
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JatinVashisht1&label=Profile%20views&color=0e75b6&style=flat" alt="JatinVashisht1" /> </p>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvashisht1&label=Profile%20views&color=0e75b6&style=flat" alt="jatinvashisht1" /> </p>
 
-- 🌱 I’m currently building **Android Projects** and actively contributing on **Github**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1" alt="jatinvashisht1" /></a> </p>
 
-- 🤝 I'm always looking for **Open Source Contributions** 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/jatin_vashisht1?logo=twitter&style=for-the-badge" alt="https://twitter.com/jatin_vashisht1" /></a> </p>
+
+- 🌱 I’m currently learning backend development **nodejs, expressjs, mongodb**
+
+- 👨‍💻 All of my projects are available at [www.github.com/JatinVashisht1](www.github.com/JatinVashisht1)
+
+- 💬 Ask me about **android dev, Kotlin, C++**
 
 - 📫 How to reach me **jatin8085vashisht@gmail.com**
-<br>
-<br>
-<br>
-<h2 align="left"> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146765351-6cf1ff3f-423d-4370-bbf5-e73fb949913d.png" alt="java" width="40" height="40"/> </a> 
- <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146764078-25a14dea-055e-44ae-aba2-1651b8c1d952.png" alt="kotlin" width="40" height="40"/> </a> 
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux.png" alt="linux" width="40" height="40"/> </a>
-<br>
-<br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JatinVashisht1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinVashisht1&theme=tokyonight" />
-</p>
-<br>
-<br>
-<br>
-<a href="https://github.com/JatinVashisht1/JatinVashisht1"><img alt=" Jatin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JatinVashisht1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<br>
-<br>
-<h2 align="left"> Connect with Me <img width=80  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'> </h2>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/jatin-vashisht-3217b91b6/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="Jatin Vashisht" width="4%" height="4%" /></a>
+<a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jatin_vashisht1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-vashisht-3217b91b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-vashisht-3217b91b6/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0emrisfmojbe1cirl7fnna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0emrisfmojbe1cirl7fnna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jatin8085vashis1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatin8085vashis1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jatin_vashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin_vashisht" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinvashisht1&show_icons=true&locale=en&layout=compact" alt="jatinvashisht1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinvashisht1&show_icons=true&locale=en" alt="jatinvashisht1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvashisht1&" alt="jatinvashisht1" /></p>
+
+<a href="https://github.com/JatinVashisht1/JatinVashisht1"><img alt=" Jatin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JatinVashisht1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
