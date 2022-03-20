@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1" alt="jatinvashisht1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/jatin_vashisht1?logo=twitter&style=for-the-badge" alt="https://twitter.com/jatin_vashisht1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"><img src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" /></a> </p>
 
 - 🌱 I’m currently learning backend development **nodejs, expressjs, mongodb**
 
