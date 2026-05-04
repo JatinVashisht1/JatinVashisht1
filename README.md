@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1&theme=darkhub" alt="jatinvashisht1" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1&theme=darkhub" alt="jatinvashisht1" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"></a> </p>
 
-- 🌱 I'm currently developing Realtime Android Chat Application with node.js as server side runtime. 
 
-- 👨‍💻 All of my projects are available at [www.github.com/JatinVashisht1](www.github.com/JatinVashisht1)
+- All of my projects are available at [www.github.com/JatinVashisht1](www.github.com/JatinVashisht1)
+- My leetcode: [https://leetcode.com/u/jatin_vashisht](https://leetcode.com/u/jatin_vashisht)
 
-- 💬 Ask me about **android dev, jetpack compose, Kotlin, node.js, typescript, javascript**
+- Ask me about **android dev, jetpack compose, Kotlin, node.js, typescript, javascript**
 
-- 📫 How to reach me **jatin8085vashisht@gmail.com**
+- How to reach me **jatin8085vashisht@gmail.com**
 
 <!---
 <h3 align="left">Connect with me:</h3>
