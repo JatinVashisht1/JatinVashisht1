@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jatin</h1>
-<h3 align="center">A passionate programmer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvashisht1&label=Profile%20views&color=0e75b6&style=flat" alt="jatinvashisht1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1&theme=darkhub" alt="jatinvashisht1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"></a> </p>
-
-
 - All of my projects are available at [www.github.com/JatinVashisht1](www.github.com/JatinVashisht1)
 - My leetcode: [https://leetcode.com/u/jatin_vashisht](https://leetcode.com/u/jatin_vashisht)
 
