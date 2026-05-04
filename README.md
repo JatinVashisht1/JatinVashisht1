@@ -36,9 +36,5 @@
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvashisht1&theme=tokyonight) --->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinvashisht1&show_icons=true&locale=en&theme=tokyonight" alt="jatinvashisht1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvashisht1&theme=tokyonight" alt="jatinvashisht1" /></p>
-
-<a href="https://github.com/JatinVashisht1/JatinVashisht1"><img alt=" Jatin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JatinVashisht1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
