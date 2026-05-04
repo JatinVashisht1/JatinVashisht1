@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1&theme=darkhub" alt="jatinvashisht1" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1&theme=darkhub" alt="jatinvashisht1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"></a> </p>
 
 
